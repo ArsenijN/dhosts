@@ -6,3 +6,6 @@
 
 0.0.0.0 idealmedia.io
 #Reason: full-screen ads on some sites
+
+0.0.0.0 *.idealmedia.io
+#Reason: full-screen ads on some sites
