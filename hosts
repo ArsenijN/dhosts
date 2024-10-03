@@ -13,5 +13,14 @@
 0.0.0.0 *.rcvlink.com
 #Reason: ad service
 
+#================================
+#From ad tester [name here]
+
 0.0.0.0 12ezo5v60.com
 #Reason: pop-up
+
+0.0.0.0 fvcwqkkqmuv.com
+#Reason: new-tab redirect
+
+0.0.0.0 kl89regular.com
+#Reason: new-tab redirect
