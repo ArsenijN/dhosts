@@ -10,3 +10,5 @@
 0.0.0.0 *.yandex.com
 #Reason: Ukrainian goverment's laws
 
+0.0.0.0 *.rcvlink.com
+#Reason: ad service
