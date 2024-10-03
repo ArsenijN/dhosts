@@ -7,6 +7,6 @@
 0.0.0.0 *.mail.ru
 #Reason: Ukrainian goverment's laws
 
-#0.0.0.0 *.idealmedia.io
-#Reason: full-screen ads on some sites
+0.0.0.0 *.yandex.com
+#Reason: Ukrainian goverment's laws
 
