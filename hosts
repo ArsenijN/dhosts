@@ -32,4 +32,36 @@
 #Reason: possible pop-up & notification spam
 
 0.0.0.0 confusingepisodevest.com
-#Reason: possible pop-up & notification spam 
+#Reason: possible pop-up & notification spam
+
+#================================
+#from https://d3ward.github.io/toolz/adblock
+
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 click.oneplus.cn
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 metrics.data.hicloud.com
+
