@@ -4,8 +4,8 @@
 0.0.0.0 clck.idealmedia.io
 #Reason: full-screen ads on some sites
 
-0.0.0.0 idealmedia.io
+0.0.0.0 www.idealmedia.io
 #Reason: full-screen ads on some sites
 
-0.0.0.0 *.idealmedia.io
+0.0.0.0 cdn.idealmedia.io
 #Reason: full-screen ads on some sites
