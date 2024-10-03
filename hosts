@@ -12,3 +12,6 @@
 
 0.0.0.0 *.rcvlink.com
 #Reason: ad service
+
+0.0.0.0 12ezo5v60.com
+#Reason: pop-up
