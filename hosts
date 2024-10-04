@@ -71,6 +71,8 @@
 0.0.0.0 grs.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice1.hicloud.com
+0.0.0.0 events.reddit.com
 
 #
 #from https://test.adminforge.de/adblock.html
