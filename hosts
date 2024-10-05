@@ -74,8 +74,12 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 events.reddit.com
 
-#
+#================================
 #from https://test.adminforge.de/adblock.html
-0.0.0.0 https://affiliationjs.s3.amazonaws.com
-0.0.0.0 https://advertising-api-eu.amazon.com
-0.0.0.0 https://amazonaax.com
+
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 amazonaax.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 s3-w.us-east-1.amazonaws.com
+0.0.0.0 amazonclix.com
