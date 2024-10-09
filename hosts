@@ -28,7 +28,10 @@
 #Reason: casino ads 
 0.0.0.0 v.botsford.link
 #Reason: casino ads
-
+0.0.0.0 z.cdn.adtwister.me
+#Reason: casino ads
+0.0.0.0 z.cdn.trafficbass.com
+#Reason: adtwister depending
 #================================
 #From canyoublockit.com
 
