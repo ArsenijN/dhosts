@@ -33,6 +33,9 @@
 
 0.0.0.0 *.cummerata.link
 #Reason: casino ads
+
+0.0.0.0 s.cummerata.link
+#Reason: bad ads
 #================================
 #From canyoublockit.com
 
