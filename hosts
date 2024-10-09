@@ -20,7 +20,10 @@
 #Reason: servetraff's depending
 
 0.0.0.0 z.cdn.adtarget.me
-#Reason: maybe ad server
+#Reason: ad CDN
+
+0.0.0.0 *.adtarget.me
+#Reason: ad CDN
 
 0.0.0.0 budvawshes.ru
 #Reason: not good site 
