@@ -13,6 +13,12 @@
 0.0.0.0 *.rcvlink.com
 #Reason: ad service
 
+0.0.0.0 servetraff.com
+#Reason: casino ads
+
+0.0.0.0 techaddom8132.com
+#Reason: servetraff's depending
+
 #================================
 #From canyoublockit.com
 
