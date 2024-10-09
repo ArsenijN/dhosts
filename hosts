@@ -32,6 +32,8 @@
 #Reason: casino ads
 0.0.0.0 z.cdn.trafficbass.com
 #Reason: adtwister depending
+0.0.0.0 tw2.cdn.adtwister.me
+#Reason: adtwister depending 
 
 #================================
 #From canyoublockit.com
