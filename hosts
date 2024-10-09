@@ -1,45 +1,31 @@
 0.0.0.0 *.yandex.ru
 #Reason: Ukrainian goverment's laws
-
 0.0.0.0 *.idealmedia.io
 #Reason: full-screen ads on some sites
-
 0.0.0.0 *.mail.ru
 #Reason: Ukrainian goverment's laws
-
 0.0.0.0 *.yandex.com
 #Reason: Ukrainian goverment's laws
-
 0.0.0.0 *.rcvlink.com
 #Reason: ad service
-
 0.0.0.0 servetraff.com
 #Reason: casino ads
-
 0.0.0.0 techaddom8132.com
 #Reason: servetraff's depending
-
 0.0.0.0 z.cdn.adtarget.me
 #Reason: ad CDN
-
 0.0.0.0 *.adtarget.me
 #Reason: ad CDN
-
 0.0.0.0 budvawshes.ru
 #Reason: not good site 
-
 0.0.0.0 godsave.lgbt
 #Reason: not good site
-
 0.0.0.0 *.cummerata.link
 #Reason: casino ads
-
 0.0.0.0 s.cummerata.link
 #Reason: bad ads
-
 0.0.0.0 srv224.com
 #Reason: casino ads 
-
 0.0.0.0 v.botsford.link
 #Reason: casino ads
 
@@ -48,19 +34,14 @@
 
 0.0.0.0 12ezo5v60.com
 #Reason: pop-up
-
 0.0.0.0 fvcwqkkqmuv.com
 #Reason: new-tab redirect
-
 0.0.0.0 kl89regular.com
 #Reason: new-tab redirect
-
 0.0.0.0 ybs2ffs7v.com
 #Reason: new-tab redirect 
-
 0.0.0.0 crazyvideotodownload.com
 #Reason: possible pop-up & notification spam
-
 0.0.0.0 confusingepisodevest.com
 #Reason: possible pop-up & notification spam
 
