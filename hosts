@@ -113,5 +113,8 @@
 #================================
 #from https://blog.themarfa.name/ad-block-tester-siervis-dlia-provierki-blokirovshchika-rieklamy/
 
-0.0.0.0 abcard.io
+#0.0.0.0 abcard.io
 #Reason: crypto-card adverstiments
+#ReasonDisabled: not ad CDN, regular site
+0.0.0.0 mpsuadv.ru
+#Reason: possible telemetry->russia
