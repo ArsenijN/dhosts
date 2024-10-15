@@ -118,3 +118,5 @@
 #ReasonDisabled: not ad CDN, regular site
 0.0.0.0 mpsuadv.ru
 #Reason: possible telemetry->russia
+0.0.0.0 *.mpsuadv.ru
+#Reason: possible telemetry->russia
