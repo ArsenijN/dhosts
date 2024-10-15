@@ -109,3 +109,9 @@
 #================================
 #from https://superadblocktest.com/
 0.0.0.0 advertising.apple.com
+
+#================================
+#from https://blog.themarfa.name/ad-block-tester-siervis-dlia-provierki-blokirovshchika-rieklamy/
+
+0.0.0.0 abcard.io
+#Reason: crypto-card adverstiments
