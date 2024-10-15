@@ -105,3 +105,7 @@
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 d.reddit.com
 0.0.0.0 metrics1.data.hicloud.com
+
+#================================
+#from https://superadblocktest.com/
+0.0.0.0 advertising.apple.com
