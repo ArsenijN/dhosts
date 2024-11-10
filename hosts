@@ -1,3 +1,6 @@
+#================================
+#from own list
+
 0.0.0.0 *.yandex.ru
 #Reason: Ukrainian goverment's laws
 0.0.0.0 *.idealmedia.io
@@ -34,6 +37,8 @@
 #Reason: adtwister depending
 0.0.0.0 tw2.cdn.adtwister.me
 #Reason: adtwister depending 
+0.0.0.0 events-pl.greencuttlefish.com
+#Reason: passive ad (scroll background)
 
 #================================
 #From canyoublockit.com
@@ -121,6 +126,8 @@
 0.0.0.0 *.mpsuadv.ru
 #Reason: possible telemetry->russia
 
+#================================
 
 #TODO:
 #BLOCK AD ON: https://blog.themarfa.name/ad-block-tester-siervis-dlia-provierki-blokirovshchika-rieklamy/
+#https://events-pl.greencuttlefish.com/click?adID=40941&requestId=23baddd41176d9&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzEyMzkyNjgsImltcHJlc3Npb25faWQiOiI4NTMxZGMwOS1iNzQwLTRhNDYtODhkMy01NzcxMmE1OTg1YjciLCJldmVudCI6IkNMSUNLIiwidHMiOjE3MzEyMjg0Njh9.ZlsB3yD7hA9P6Y5lg0DFSi2TxqrXvm2YNJ7XF0KWg2o&targetLink=https://ua.hit.gemius.pl/lshitredir/id=.K6bkfiNSNv4heWjcigwTJev33mILodED1zwQscwxgb.47/fastid=bogikliijrnrnfgtqrrwtuimkvmp/stparam=ykgictjslk/nc=0/gdpr=0/gdpr_consent=/url=https://www.kaercher.com/ua-uk/home-garden/elektroshvabra.html?cid=ua-DSP-edywKQL3X0yIOaCbFxbVZA
