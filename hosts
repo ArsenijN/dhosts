@@ -39,6 +39,8 @@
 #Reason: adtwister depending 
 0.0.0.0 events-pl.greencuttlefish.com
 #Reason: passive ad (scroll background)
+0.0.0.0 *.iads.unity3d.com
+#Reason: Unity ads
 
 #================================
 #From canyoublockit.com
