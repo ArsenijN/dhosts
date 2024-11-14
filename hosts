@@ -41,6 +41,10 @@
 #Reason: passive ad (scroll background)
 0.0.0.0 *.iads.unity3d.com
 #Reason: Unity ads
+0.0.0.0 *.mediation.unity3d.com
+0.0.0.0 o-adq.mediation.unity3d.com
+#Reason: Unity ads (слідкування)
+
 
 #================================
 #From canyoublockit.com
