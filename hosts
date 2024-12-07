@@ -114,6 +114,7 @@
 0.0.0.0 ads.facebook.com
 0.0.0.0 advertising.twitter.com
 0.0.0.0 widgets.pinterest.com
+#^ it is actually ad?
 0.0.0.0 d.reddit.com
 0.0.0.0 metrics1.data.hicloud.com
 
