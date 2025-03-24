@@ -40,6 +40,7 @@
 0.0.0.0 *.iads.unity3d.com
 #Reason: Unity ads
 0.0.0.0 *.mediation.unity3d.com
+#Reason: Unity ads tracking
 0.0.0.0 o-adq.mediation.unity3d.com
 #Reason: Unity ads tracking
 0.0.0.0 cawempoaltie.com
@@ -49,14 +50,13 @@
 0.0.0.0 inrhyhorntor.com
 #Reason: ad redirection
 0.0.0.0 ypjechbrmbra65.live
-#Reason: fake casino
-#DANGER LINK ABOVE
+#Reason: fake casino; DANGER LINK ABOVE
 0.0.0.0 tzegilo.com
 #Reason: any.run malicious report
 0.0.0.0 fleraprt.com
-0.0.0.0 flerap.com
 #Reason: dependencies
-#domain=coajutoa.com
+0.0.0.0 flerap.com
+#Reason: dependencies; domain=coajutoa.com
 0.0.0.0 beacons5.gvt3.com
 #Reason: possible ad CDN 
 0.0.0.0 www.19706903.xyz
