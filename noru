@@ -1,8 +1,15 @@
-
+#================================
+# If you want to restrict RU-based
+# services, consider to use this
+# file. Thanks
+#================================
+#from own list
 
 0.0.0.0 *.yandex.ru
 #Reason: Ukrainian goverment's laws
 0.0.0.0 *.mail.ru
 #Reason: Ukrainian goverment's laws
 0.0.0.0 *.yandex.com
+#Reason: Ukrainian goverment's laws
+0.0.0.0 *.vk.com
 #Reason: Ukrainian goverment's laws
