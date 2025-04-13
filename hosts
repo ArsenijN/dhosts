@@ -39,8 +39,6 @@
 #Reason: Unity ads
 0.0.0.0 *.mediation.unity3d.com
 #Reason: Unity ads tracking
-0.0.0.0 o-adq.mediation.unity3d.com
-#Reason: Unity ads tracking
 0.0.0.0 cawempoaltie.com
 #Reason: newpage ad
 0.0.0.0 furgoomi.com
@@ -61,10 +59,6 @@
 #Reason: ad server
 0.0.0.0 al.matiealloy.top
 #Reason: Google Play ad server (I hate automatic redirection to Play Market app!)
-
-#0.0.0.0 s.cummerata.link
-#Reason: bad ads
-#ReasonDisabled:            wildcard is used
 
 
 #================================
