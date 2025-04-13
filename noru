@@ -1,0 +1,8 @@
+
+
+0.0.0.0 *.yandex.ru
+#Reason: Ukrainian goverment's laws
+0.0.0.0 *.mail.ru
+#Reason: Ukrainian goverment's laws
+0.0.0.0 *.yandex.com
+#Reason: Ukrainian goverment's laws
