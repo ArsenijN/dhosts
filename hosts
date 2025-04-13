@@ -1,4 +1,8 @@
 #================================
+# If you want to restrict RU-based
+# services, consider to use «noru»
+# file. Thanks
+#================================
 #from own list
 
 0.0.0.0 *.idealmedia.io
