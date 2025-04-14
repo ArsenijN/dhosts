@@ -61,36 +61,59 @@
 #Reason: 
 0.0.0.0 cdn-fusify.greencuttlefish.com
 #Reason: 
-
-
-#server.smartytech.io
-#bidder.smartytouch.co
-#events.smartytech.io
-#cdn-ua.smartytouch.co
-#img.smartytouch.co
-##i0.wp.com
-#www.19706903.xyz
-#api.gravitec.media
-#ryumbg-impression.appsflyersdk.com
-#cdn.iads.unity3d.com
-#cdn-ketchapp.akamaized.net
-##pst.net
-##cdn.fastcomments.com
-##fastcomments.com
-##tgwidget.com
-##static.mailerlite.com
-##app.mailerlite.com
-##abcard.io
-##s.luxcdn.com
-##test1574.ghost.io
-##usocial.pro
-##mpsuadv.ru
-##z.cdn.trafficbass.com
+0.0.0.0 server.smartytech.io
+#Reason: 
+0.0.0.0 bidder.smartytouch.co
+#Reason: 
+0.0.0.0 events.smartytech.io
+#Reason: 
+0.0.0.0 cdn-ua.smartytouch.co
+#Reason: 
+0.0.0.0 img.smartytouch.co
+#Reason: 
+0.0.0.0 www.19706903.xyz
+#Reason: 
+0.0.0.0 cdn-ua.greencuttlefish.com
+#Reason: 
+0.0.0.0 cdn-fusify.greencuttlefish.com
+#Reason: 
+0.0.0.0 api.gravitec.media
+#Reason: 
+0.0.0.0 ryumbg-impression.appsflyersdk.com
+#Reason: 
+0.0.0.0 cdn.iads.unity3d.com
+#Reason: 
+0.0.0.0 cdn-ketchapp.akamaized.net
+#Reason: 
 
 
 #superfluous, aka deprecated 
 #0.0.0.0 z.cdn.adtarget.me
 #Reason: ad CDN
+#server.smartytech.io
+#bidder.smartytouch.co
+#events.smartytech.io
+#cdn-ua.smartytouch.co
+#img.smartytouch.co
+#i0.wp.com
+#www.19706903.xyz
+#api.gravitec.media
+#ryumbg-impression.appsflyersdk.com
+#cdn.iads.unity3d.com
+#cdn-ketchapp.akamaized.net
+#pst.net
+#cdn.fastcomments.com
+#fastcomments.com
+#tgwidget.com
+#static.mailerlite.com
+#app.mailerlite.com
+#abcard.io
+#s.luxcdn.com
+#test1574.ghost.io
+#usocial.pro
+#mpsuadv.ru
+#z.cdn.trafficbass.com
+
 
 #================================
 #From canyoublockit.com
