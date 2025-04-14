@@ -71,12 +71,6 @@
 #Reason: 
 0.0.0.0 img.smartytouch.co
 #Reason: 
-0.0.0.0 www.19706903.xyz
-#Reason: 
-0.0.0.0 cdn-ua.greencuttlefish.com
-#Reason: 
-0.0.0.0 cdn-fusify.greencuttlefish.com
-#Reason: 
 0.0.0.0 api.gravitec.media
 #Reason: 
 0.0.0.0 ryumbg-impression.appsflyersdk.com
@@ -86,34 +80,9 @@
 0.0.0.0 cdn-ketchapp.akamaized.net
 #Reason: 
 
-
 #superfluous, aka deprecated 
 #0.0.0.0 z.cdn.adtarget.me
 #Reason: ad CDN
-#server.smartytech.io
-#bidder.smartytouch.co
-#events.smartytech.io
-#cdn-ua.smartytouch.co
-#img.smartytouch.co
-#i0.wp.com
-#www.19706903.xyz
-#api.gravitec.media
-#ryumbg-impression.appsflyersdk.com
-#cdn.iads.unity3d.com
-#cdn-ketchapp.akamaized.net
-#pst.net
-#cdn.fastcomments.com
-#fastcomments.com
-#tgwidget.com
-#static.mailerlite.com
-#app.mailerlite.com
-#abcard.io
-#s.luxcdn.com
-#test1574.ghost.io
-#usocial.pro
-#mpsuadv.ru
-#z.cdn.trafficbass.com
-
 
 #================================
 #From canyoublockit.com
@@ -177,7 +146,6 @@
 0.0.0.0 affiliationjs.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 amazonaax.com
-0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 s3-w.us-east-1.amazonaws.com
 0.0.0.0 amazonclix.com
 0.0.0.0 ads.facebook.com
@@ -195,9 +163,6 @@
 #================================
 #from https://blog.themarfa.name/ad-block-tester-siervis-dlia-provierki-blokirovshchika-rieklamy/
 
-#0.0.0.0 abcard.io
-#Reason: crypto-card adverstiments
-#ReasonDisabled: not ad CDN, regular site
 0.0.0.0 mpsuadv.ru
 #Reason: possible telemetry->russia
 0.0.0.0 *.mpsuadv.ru
