@@ -83,6 +83,9 @@
 #superfluous, aka deprecated 
 #0.0.0.0 z.cdn.adtarget.me
 #Reason: ad CDN
+#0.0.0.0 abcard.io
+#Reason: crypto-card adverstiments
+#ReasonDisabled: not ad CDN, regular site
 
 #================================
 #From canyoublockit.com
