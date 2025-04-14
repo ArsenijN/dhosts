@@ -13,8 +13,6 @@
 #Reason: casino ads
 0.0.0.0 techaddom8132.com
 #Reason: servetraff's depending
-0.0.0.0 z.cdn.adtarget.me
-#Reason: ad CDN
 0.0.0.0 *.adtarget.me
 #Reason: ad CDN
 0.0.0.0 budvawshes.ru
@@ -87,6 +85,10 @@
 ##tw2.cdn.adtwister.me
 ##z.cdn.trafficbass.com
 ##z.cdn.adtwister.me
+
+#superfluous, aka deprecated 
+#0.0.0.0 z.cdn.adtarget.me
+#Reason: ad CDN
 
 #================================
 #From canyoublockit.com
