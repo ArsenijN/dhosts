@@ -57,6 +57,11 @@
 #Reason: ad server
 0.0.0.0 al.matiealloy.top
 #Reason: Google Play ad server (I hate automatic redirection to Play Market app!)
+0.0.0.0 cdn-ua.greencuttlefish.com
+#Reason: 
+0.0.0.0 cdn-fusify.greencuttlefish.com
+#Reason: 
+
 
 #server.smartytech.io
 #bidder.smartytouch.co
@@ -65,8 +70,6 @@
 #img.smartytouch.co
 ##i0.wp.com
 #www.19706903.xyz
-#cdn-ua.greencuttlefish.com
-#cdn-fusify.greencuttlefish.com
 #api.gravitec.media
 #ryumbg-impression.appsflyersdk.com
 #cdn.iads.unity3d.com
