@@ -5,8 +5,14 @@
 # use this file. Thanks
 #================================
 #from own list
+#Tested sites:
+#unian.ua (УНІАН)
 
 0.0.0.0 *.gravitec.com
-#Reason: 
+#Reason: notifications?
 0.0.0.0 *.gravitec.net
-#Reason: 
+#Reason: notifications?
+0.0.0.0 membrana-cdn.media
+#Reason: Disable Unian's "Video of day" loader
+0.0.0.0 cdn.membrana.media
+#Reason: Disable Unian's "Video of day" loader
