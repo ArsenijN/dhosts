@@ -8,6 +8,9 @@
 #Tested sites:
 #unian.ua (УНІАН)
 
+#Todo:
+#1plus1.video: playback is not possible without editing .js of video playback (https://1plus1.video/static/player/js/ovva.0.3.0.js?v=0b09b16785be151bc2c2df862d49f4e194685a3e) and redirecting it to GitHub "patched" file. The "ab" (https://1plus1.video/ab) "file" loads because of ovva.0.3.0.js
+
 0.0.0.0 *.gravitec.com
 #Reason: notifications?
 0.0.0.0 *.gravitec.net
