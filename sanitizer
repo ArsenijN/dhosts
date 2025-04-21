@@ -1,4 +1,12 @@
-#
+#================================
+# If you want to restrict all pos
+# sible services that can be 
+# **related** to ads, consider to
+# use this file. Thanks
+#================================
+#from own list
 
 0.0.0.0 *.gravitec.com
+#Reason: 
 0.0.0.0 *.gravitec.net
+#Reason: 
