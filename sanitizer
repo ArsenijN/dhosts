@@ -12,6 +12,7 @@
 #1plus1.video: playback is not possible without editing .js of video playback (https://1plus1.video/static/player/js/ovva.0.3.0.js?v=0b09b16785be151bc2c2df862d49f4e194685a3e) and redirecting it to GitHub "patched" file. The "ab" (https://1plus1.video/ab) "file" loads because of ovva.0.3.0.js
 #https://zakarpattya.net.ua/News/236852-Na-Zakarpatti-zapuskaiut-vyrobnytstvo-kraftovoho-sydru-pid-tampliierskym-brendom-Monbar
 #^maybe it isn't possible 
+#comfy.ua: discounted goods section: no images
 
 0.0.0.0 *.gravitec.com
 #Reason: notifications?
