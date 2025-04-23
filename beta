@@ -1,10 +1,15 @@
-
-
+#================================
+# This file is for testing
+# purposes only. The things may
+# not work properly because of 
+# this file. 
+# Thanks for understanding 
+#================================
 
 
 0.0.0.0 st50.rcrtv.net
-#
+#Reason: possible ad server
 0.0.0.0 analytics.pangle-ads.com
-#
+#Reason: ad related
 0.0.0.0 gtrace.mediago.io
 #Reason: some internet results show that is a problematic ad CDN (fake ads and other)
