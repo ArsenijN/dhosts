@@ -1,2 +1,10 @@
+
+
+
+
 0.0.0.0 st50.rcrtv.net
 #
+0.0.0.0 analytics.pangle-ads.com
+#
+0.0.0.0 gtrace.mediago.io
+#Reason: some internet results show that is a problematic ad CDN (fake ads and other)
