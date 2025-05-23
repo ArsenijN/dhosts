@@ -18,7 +18,17 @@
 #1plus1.video: playback is not possible without editing .js of video playback (https://1plus1.video/static/player/js/ovva.0.3.0.js?v=0b09b16785be151bc2c2df862d49f4e194685a3e) and redirecting it to GitHub "patched" file. The "ab" (https://1plus1.video/ab) "file" loads because of ovva.0.3.0.js
 #https://zakarpattya.net.ua/News/236852-Na-Zakarpatti-zapuskaiut-vyrobnytstvo-kraftovoho-sydru-pid-tampliierskym-brendom-Monbar
 #^maybe it isn't possible 
-#comfy.ua: discounted goods section: no images
+#comfy.ua: discounted goods section: no images, that's weird
+
+#About "patching" the 1plus1.video file: IDK if it will not break any laws. Seriously, I'm the user of the site, and if piped.video exists with youtube.com and it mainly works fine (sometimes anti-bot check fail so I changed way to watch youtube to legacy client and some anti-ad shenanigans) - that tells me that patched 1plus1.video should also exist! And, if patch or change in code doesn't break anything else (except ad servicing) - why not?
+#BTW, consider that I didn't tell anything about my future works
+#patched 1plus1.video will exist
+#By me or by someone else - can't tell because I have some more important things to do IRL, so I can't spend so much time to make that work
+#And, I think about rehosting the frontend of the 1plus1.video with pathed files and connect it to the 1plus1.video, but that may considered as breaking the law... idk
+#If you, the reader of the file, have abilities to make that happened - good luck
+#So, this is end of a thoughs that I have
+#Consider that this is nothing there
+#Edit: checked via ChatGPT and 1plus1's API site and "pravila" page (why this TOS written so bad that it have some spelling mistakes (like "не має" when it should be "немає")) and stumble across copyright issue, but can't see restrictions for only API usage, can find for app usage. If anyone know info about their API and if it can be used for external service - change there
 
 0.0.0.0 *.gravitec.com
 #Reason: notifications?
@@ -30,4 +40,5 @@
 #Reason: Disable Unian's "Video of day" loader
 
 0.0.0.0 wschat1.binotel.com
-#Reason: Unnecesseary "Live chat" and "Live chat pop-up" on news.dtkt.ua
+#Reason: Unnecesseary "Live chat" and "JUMPSCARE SOUND with Live chat pop-up" on news.dtkt.ua. One question to dtkt: why? Why someone need to have 1/3 of the screen covered in self ads and this... sound, when chat appeared? Maybe we will never know
+
