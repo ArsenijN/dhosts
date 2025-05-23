@@ -3,6 +3,12 @@
 # sible services that can be 
 # **related** to ads, consider to
 # use this file. Thanks
+#                                
+# Also, this file used to disable
+# some parts of the site to make
+# better experience on it. Please
+# check the notes to the entries
+# to know what it do
 #================================
 #from own list
 #Tested sites:
@@ -22,3 +28,6 @@
 #Reason: Disable Unian's "Video of day" loader
 0.0.0.0 cdn.membrana.media
 #Reason: Disable Unian's "Video of day" loader
+
+0.0.0.0 wschat1.binotel.com
+#Reason: Unnecesseary "Live chat" and "Live chat pop-up" on news.dtkt.ua
