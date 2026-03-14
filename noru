@@ -13,3 +13,13 @@
 #Reason: Ukrainian goverment's laws
 0.0.0.0 *.vk.com
 #Reason: Ukrainian goverment's laws
+0.0.0.0 *.ok.ru
+#Reason: Ukrainian goverment's laws
+0.0.0.0 *.kinopoisk.ru
+#Reason: Ukrainian goverment's laws
+0.0.0.0 *.rbk.ru
+#Reason: Ukrainian goverment's laws
+
+
+
+#TODO: parse those sites: http://91.201.232.15/#collapseSites
